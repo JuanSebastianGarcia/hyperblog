@@ -17,5 +17,21 @@ body {
 #container h1
 {
     font-size: 20px;
+    color: aqua;
+
+}
+
+#container h2
+{
+    font-size: 20px;
+    color: blue;
+    
+}
+
+
+#container h3
+{
+    font-size: 20px;
+    color: brown;
     
 }
